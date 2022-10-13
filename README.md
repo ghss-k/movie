@@ -1,4 +1,5 @@
-# Notre analyse a été baser sur un jeu de données dans le domaine cinématique et plus précisément l’étude des nombres des vues d’une bande d’annonce d’un film. 
+# movie-trailers
+Notre analyse a été baser sur un jeu de données dans le domaine cinématique et plus précisément l’étude des nombres des vues d’une bande d’annonce d’un film. 
 On a pu appliquer et étudier la régression linéaire multiple à notre table de données, on a aussi étudier les différentes critères et les différentes tests
 qui définissent et évaluent la qualité du modèle prédit. D’autre part, on a appliqué les différentes méthodes de la classification : CAH et la méthode des 
 k-means, à travers ces deux méthodes on pu classifier nos variables en des groupes selon des critères bien précis soit le calcul es distances ou le critère de 
